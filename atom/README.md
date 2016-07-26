@@ -6,8 +6,8 @@
 
 ## 2.  Outer shadow only
 
-![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/outer-shadows-512.png)
+![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/outer-shadow-512.png)
 
-## 3.  Inner and outer shadows
+## 3.  All shadows
 
 ![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/all-shadows-512.png)
