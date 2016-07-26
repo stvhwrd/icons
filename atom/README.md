@@ -2,12 +2,12 @@
 
 ## 1.  No shadows
 
-![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/no%20shadows.png)
+![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/no-shadows-512.png)
 
-## 2.  Outer shadows only
+## 2.  Outer shadow only
 
-![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/outer%20shadow.png)
+![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/outer-shadows-512.png)
 
 ## 3.  Inner and outer shadows
 
-![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/inner%26outer%20shadows.png)
+![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/all-shadows-512.png)
