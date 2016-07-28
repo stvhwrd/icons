@@ -1,7 +1,7 @@
 # App Icons
 Stevie Howard's [very slowly developed] original works and derivatives of Mac/Linux application icons.  First foray into any kind of design, so bear with me.
 
-Available Icons:
+## Available Icons:
 
 #### [Atom](https://github.com/stvhwrd/icons/tree/master/atom)
 
@@ -9,7 +9,7 @@ Available Icons:
 
 
 
-# License
+## License
 
 ### [MIT License](https://tldrlegal.com/license/mit-license)
 
