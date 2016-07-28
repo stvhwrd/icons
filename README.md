@@ -1,5 +1,7 @@
 # App Icons
-Stevie Howard's original works and derivatives of Mac/Linux application icons
+Stevie Howard's [very slowly developed] original works and derivatives of Mac/Linux application icons.  First foray into any kind of design, so bear with me.
+
+Table of Contents:
 
 #### [Atom](https://github.com/stvhwrd/icons/tree/master/atom)
 
