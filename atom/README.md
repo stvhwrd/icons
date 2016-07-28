@@ -1,16 +1,20 @@
-# Three versions:
+# Four versions of [Atom](https://atom.io/) icon:
 
 ## 1.  No shadows
 
-![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/no-shadows-512.png)
+![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/Atom-no_shadows-512.png)
 
-## 2.  Outer shadow only
+## 2.  Inner shadow only
 
-![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/outer-shadow-512.png)
+![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/Atom-inner_shadow-512.png)
 
-## 3.  All shadows
+## 3.  Outer shadow only
 
-![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/all-shadows-512.png)
+![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/Atom-outer_shadow-512.png)
+
+## 4.  All shadows
+
+![](https://raw.githubusercontent.com/stvhwrd/icons/master/atom/Atom-all_shadows-512.png)
 
 
 
